@@ -1,5 +1,5 @@
-title: Jellky theme
-description: "Jellky theme is a work in progres theme without a name"
+title: Hacker theme
+description: Hacker Theme is a work in progres hacker style theme
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
