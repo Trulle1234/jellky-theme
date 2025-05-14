@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: layout1
+layout: default
 ---
 
 # Jellky Theme
