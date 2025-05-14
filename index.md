@@ -1,4 +1,7 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# Jellky Theme
+
+*Jellky theme* is a work in progres theme without a name
