@@ -3,6 +3,6 @@ title: Home
 layout: default
 ---
 
-# Jellky Theme
+# Hacker Theme
 
-*Jellky theme* is a work in progres theme without a name
+*Hacker Theme* is a work in progres hacker style theme.
