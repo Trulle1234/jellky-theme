@@ -1,5 +1,5 @@
 title: Hacker theme
-description: Hacker Theme is a work in progres hacker style theme
+description: Hacker Theme is a verry simple hacker style theme
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
