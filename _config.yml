@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Jellky theme
+description: "Jellky theme is a work in progres theme without a name"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
